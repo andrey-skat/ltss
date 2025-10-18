@@ -1,3 +1,6 @@
+**No longer maintained, see https://github.com/freol35241/ltss/issues/277**
+
+
 Long time state storage (LTSS) custom component for Home Assistant
 ========================================
 
